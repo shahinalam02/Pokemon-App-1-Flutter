@@ -1,0 +1,4 @@
+#Fri Sep 02 21:27:24 BDT 2022
+base.0=C\:\\Users\\Shahi\\Downloads\\8. pokemon-app-1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
